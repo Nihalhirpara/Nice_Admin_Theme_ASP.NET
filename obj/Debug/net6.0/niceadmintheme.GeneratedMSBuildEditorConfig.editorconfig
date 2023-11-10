@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = niceadmintheme
+build_property.RootNamespace = niceadmintheme
+build_property.ProjectDir = E:\Sem-5\.Net\niceadmintheme\niceadmintheme\niceadmintheme\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Sem-5\.Net\niceadmintheme\niceadmintheme\niceadmintheme
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/LOC_City/Views/LOC_City/LOC_CityAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcTE9DX0NpdHlcTE9DX0NpdHlBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/LOC_City/Views/LOC_City/LOC_CityList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcTE9DX0NpdHlcTE9DX0NpdHlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/LOC_City/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/LOC_City/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/LOC_Country/Views/LOC_Country/LOC_CountryAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcTE9DX0NvdW50cnlcTE9DX0NvdW50cnlBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/LOC_Country/Views/LOC_Country/LOC_CountryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcTE9DX0NvdW50cnlcTE9DX0NvdW50cnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/LOC_Country/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/LOC_Country/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/LOC_State/Views/LOC_State/LOC_StateAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXExPQ19TdGF0ZVxMT0NfU3RhdGVBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/LOC_State/Views/LOC_State/LOC_StateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXExPQ19TdGF0ZVxMT0NfU3RhdGVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/LOC_State/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/LOC_State/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/MST_Branch/Views/MST_Branch/MST_BranchAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX0JyYW5jaFxWaWV3c1xNU1RfQnJhbmNoXE1TVF9CcmFuY2hBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/MST_Branch/Views/MST_Branch/MST_BranchList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX0JyYW5jaFxWaWV3c1xNU1RfQnJhbmNoXE1TVF9CcmFuY2hMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/MST_Branch/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX0JyYW5jaFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/MST_Branch/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX0JyYW5jaFxfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/MST_Student/Views/MST_Student/MST_StudentAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX1N0dWRlbnRcVmlld3NcTVNUX1N0dWRlbnRcTVNUX1N0dWRlbnRBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/MST_Student/Views/MST_Student/MST_StudentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX1N0dWRlbnRcVmlld3NcTVNUX1N0dWRlbnRcTVNUX1N0dWRlbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/MST_Student/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX1N0dWRlbnRcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Areas/MST_Student/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX1N0dWRlbnRcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/Home/Blank.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbGFuay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/Home/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvcjQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/Home/Faq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYXEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/Home/Userprofile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VycHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Sem-5/.Net/niceadmintheme/niceadmintheme/niceadmintheme/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gv4f6h8adb
